@@ -1,5 +1,5 @@
 <blockquote> <h3> Project Title </h3> </blockquote>
-<h1 style = 'color:#0C73D1;' >  Exploratory Data Analysis Using SQL </h1>
+<h1 style = 'color:#0C73D1;' >  Flipkart Sales Analysis Using SQL </h1>
 <h3> Summary: </h3>
 In this portfolio project, I conducted an analysis of Flipkart sales data using SQL queries and visualized the results using matplotlib and seaborn. The analysis focused on exploring the distribution of products across main and sub-categories, identifying the most expensive and best-selling products, and examining the product rating and pricing trends. The data included information such as the product's title, category, rating, selling price, maximum retail price, seller name and rating, description, and highlights. By visualizing the data, I was able to gain insights into the sales patterns and product trends on Flipkart.  The project showcases the power of SQL for data analysis and the importance of data visualization for communicating insights effectively.
 
