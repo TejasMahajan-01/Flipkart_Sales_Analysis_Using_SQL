@@ -50,3 +50,6 @@ In this portfolio project, I conducted an analysis of Flipkart sales data using 
 * __pandas__ - for displaying data in tabular format
 * __matplotlib__ and __seaborn__ - for visualizing the data
 * __warnings__ - to ignore warnings displayed in Jupyter Notebook
+
+Dashboard
+[flipkart_sales_analysis_dashboard.pdf](https://github.com/TejasMahajan02/EDA_Using_SQL/files/11071746/flipkart_sales_analysis_dashboard.pdf)
